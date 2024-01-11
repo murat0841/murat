@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site 2024-01-11 20:27",
-    "currentPage": "yapayzeka.html",
+    "currentPage": "Blog.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -866,7 +866,7 @@
     "videolar.html": {
       "settings": {
         "title": "Videolar",
-        "order": "4"
+        "order": "1"
       },
       "components": [
         {
@@ -1709,7 +1709,7 @@
     "yapayzeka.html": {
       "settings": {
         "title": "Yapay Zeka",
-        "order": "3",
+        "order": "2",
         "meta_descr": ""
       },
       "components": [
@@ -2467,7 +2467,7 @@
     "iletisi.html": {
       "settings": {
         "title": "İletişim",
-        "order": "2",
+        "order": "3",
         "meta_descr": ""
       },
       "components": [
@@ -3419,7 +3419,7 @@
     "Blog.html": {
       "settings": {
         "title": "Blog",
-        "order": "1",
+        "order": "4",
         "meta_descr": ""
       },
       "components": [
