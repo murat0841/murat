@@ -3200,28 +3200,96 @@ a {
     padding: 1rem;
   }
 }
-.cid-u3rIUFh2Xc {
+.cid-u3rK2x3P9s {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #edefeb;
 }
-.cid-u3rIUFh2Xc .mbr-text {
+.cid-u3rK2x3P9s .mbr-iconfont {
+  font-size: 1.2rem !important;
+  font-family: 'Moririse2' !important;
+  color: white;
+  transition: all 0.3s;
+  transform: rotate(180deg);
+  padding-left: 0.5rem;
+}
+.cid-u3rK2x3P9s .panel-group {
+  border: none;
+}
+.cid-u3rK2x3P9s .card-header {
+  padding: 0rem;
+}
+@media (max-width: 767px) {
+  .cid-u3rK2x3P9s .card-header {
+    padding: 0rem;
+  }
+}
+.cid-u3rK2x3P9s .panel-body {
+  padding: 0rem;
+  padding-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+.cid-u3rK2x3P9s .img-col {
+  padding: 0;
+}
+.cid-u3rK2x3P9s .img-item {
+  height: 100%;
+}
+.cid-u3rK2x3P9s img {
+  height: 100%;
+  object-fit: cover;
+}
+.cid-u3rK2x3P9s .collapsed span {
+  transform: rotate(0deg);
+}
+.cid-u3rK2x3P9s .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-u3rK2x3P9s p {
+  margin-bottom: 0.3rem;
+}
+.cid-u3rK2x3P9s .panel-title-edit {
   color: #000000;
-  text-align: left;
 }
-.cid-u3rIUFh2Xc .mbr-section-subtitle {
+.cid-u3rK2x3P9s .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+  border: 0;
+  border-radius: 2rem;
+}
+.cid-u3rK2x3P9s .card {
+  background: #ffffff;
+  padding: 2.25rem;
+  border-radius: 2rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-u3rK2x3P9s .card {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-u3rK2x3P9s .card {
+    margin-bottom: 1rem;
+    padding: 2rem 1.5rem;
+  }
+}
+.cid-u3rK2x3P9s .panel-text {
   color: #000000;
-  text-align: left;
 }
-.cid-u3rIUFh2Xc .mbr-section-title {
-  text-align: left;
+.cid-u3rK2x3P9s .mbr-section-title {
+  text-align: center;
   color: #000000;
 }
-.cid-u3rIUFh2Xc .mbr-card-title {
+.cid-u3rK2x3P9s .mbr-section-subtitle {
   color: #000000;
-  text-align: left;
+  text-align: center;
 }
-.cid-u3rIUFh2Xc .mbr-card-subtitle {
+.cid-u3rK2x3P9s .panel-title-edit,
+.cid-u3rK2x3P9s .mbr-iconfont {
   color: #000000;
 }
 .cid-u14NGwxWf1 {
